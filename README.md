@@ -74,5 +74,3 @@ Trước khi bắt đầu, đảm bảo rằng bạn đã cài đặt các công
 
 ---
 
-📜 **License**: MIT  
-🚀 **Author**: Bạn 🚀
